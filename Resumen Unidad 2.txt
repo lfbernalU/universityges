@@ -1,0 +1,15 @@
+/* Resumen Unidad 2
+
+La programacion:
+
+Es el proceso de dar instrucciones a una computadora para que realice tareas específicas. 
+Esto se logra mediante el uso de un lenguaje de programación, que es un conjunto de reglas y símbolos que permiten
+a los programadores comunicarse con la máquina.
+En programación, se trabajan con conceptos como variables,
+que son espacios de almacenamiento con nombres simbólicos para contener información.
+Estos datos pueden ser de diferentes tipos, como números, texto o booleanos. 
+Los programadores utilizan operadores para realizar acciones en estas variables, como sumar, restar, o comparar valores.
+
+Las decisiones en programación se toman mediante condicionales, que permiten ejecutar diferentes bloques de código 
+según ciertas condiciones. Además, se utilizan bucles para repetir instrucciones varias veces, 
+facilitando la automatización de tareas repetitivas.

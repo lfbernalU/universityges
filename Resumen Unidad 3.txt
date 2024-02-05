@@ -1,0 +1,15 @@
+/* Resumen Unidad 3
+
+
+Los sistemas de control de versiones, como GitHub, son herramientas que ayudan a gestionar y rastrear cambios en el código
+fuente de un proyecto de software. Permiten a los desarrolladores trabajar de manera colaborativa, 
+manteniendo un historial detallado de todas las modificaciones realizadas en el código.
+
+En lugar de tener una única versión del código en todo momento, 
+un sistema de control de versiones mantiene un registro de todas las versiones anteriores y actuales. 
+Esto facilita la colaboración, ya que múltiples personas pueden trabajar en diferentes partes del código al mismo tiempo 
+sin temor a sobrescribir o perder el trabajo de los demás.
+
+GitHub, en particular, es una plataforma basada en la web que utiliza el sistema de control de versiones Git.
+Ofrece funciones adicionales como la posibilidad de realizar seguimiento de problemas, gestionar proyectos y facilitar 
+la colaboración entre desarrolladores.

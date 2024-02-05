@@ -1,0 +1,17 @@
+/* Resumen Unidad 1
+
+Sistema binario:
+El sistema binario es como el lenguaje fundamental de las computadoras, y en él solo usamos dos números: el 0 y el 1. 
+Imagina que estás encendiendo o apagando interruptores. Cada interruptor es como un bit, 
+que es la unidad básica en el sistema binario. Ahora, estos bits se agrupan para representar números y letras.
+Es como un idioma especial que las computadoras entienden, porque toda la información, por más complicada que sea, 
+se traduce a combinaciones de estos ceros y unos. Es el corazón de la tecnología digital que usamos todos los días.
+
+
+Algoritmo:
+es como una receta para que la computadora siga paso a paso y haga algo específico. 
+Es como una serie de instrucciones que le decimos al programa qué hacer. Puede ser simple,
+como organizar números, o más complicado, como reconocer caras en fotos. La idea es que sea preciso,
+fácil de entender y eficiente para resolver problemas. En resumen, los algoritmos son como el "plan de acción" 
+que le damos a la computadora para que realice tareas.
+
